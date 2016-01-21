@@ -2,26 +2,15 @@
   color: red;
   font-style: italic;
 }
+.purple {
+  color:#6600cc;
+}
 .best{
   font-weight: bold;
   font-style: italic;
 }
-h1 {
-  text-align: center;
-}
-h3 {
-  text-align: center;
-}
-p {
-  text-align: center;
-}
-title {
-  text-align: center;
-}
-li {
-  text-align: center;
-}
-img src {
+
+.center {
   text-align: center;
 }
 ul {
